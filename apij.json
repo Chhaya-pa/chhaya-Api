@@ -1,0 +1,20 @@
+[
+    {
+        "id": 110,
+        "name": "chhaya",
+        "role": "Developer",
+        "phone_number": 1111111111
+    },
+    {
+        "id": 108,
+        "name": "anya",
+        "role": "scientist",
+        "phone_number": 2222222222
+    },
+    {
+        "id": 101,
+        "name": "avishi",
+        "role": "analist",
+        "phone_number": 3333333333
+    }
+]
